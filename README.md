@@ -7,7 +7,7 @@
   - [x] Reference `style.css` in html file
   - [x] Use `display: flex;` on body
   - [x] Style the table somehow
-  - [ ] Use a background image somewhere that does not repeat
+  - [x] Use a background image somewhere that does not repeat
   - [ ] Use a hover effekt on **all** links
   - [ ] Use another font
 
