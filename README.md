@@ -3,7 +3,7 @@
 # hft-asgmt-css
 
 ## TODO
-  - [ ] Add style.css
+  - [x] Add style.css
   - [ ] Reference `style.css` in html file
   - [ ] Use `display: flex;` on body
   - [ ] Style the table somehow
